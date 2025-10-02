@@ -62,9 +62,8 @@ To add or modify facts, edit the `FACTS` array in `app/page.tsx`.
 MIT License
 
 ## Contact
-Your Name - [Your Contact Information]
-
-Project Link: [https://github.com/yourusername/random-facts-generator](https://github.com/yourusername/random-facts-generator)
+Manogna Kopparapu - VenkataManognaKopparapu@github.com
+Project Link: https://github.com/VenkataManognaKopparapu/Vibe_Code
 
 ## Unsplash Random Background
 
